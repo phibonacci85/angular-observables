@@ -3,6 +3,7 @@
 
 const {SpecReporter} = require('jasmine-spec-reporter');
 
+// noinspection JSUnusedGlobalSymbols
 exports.config = {
     allScriptsTimeout: 11000,
     specs: [
